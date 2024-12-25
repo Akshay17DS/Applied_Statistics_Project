@@ -13,10 +13,15 @@ Segment customers based on their purchasing habits.
 Provide actionable insights to optimize marketing efforts.
 
 ## Tasks
+
 Task 1 - Basic Cleanup
+
 Task 2 - Descriptive Statistics
+
 Task 3 - Probability Distributions
+
 Task 4 - Insights and Customer Segmentation
+
 Task 5 - Conclusion and Recommendations
 
 ## Key Insights and Findings
